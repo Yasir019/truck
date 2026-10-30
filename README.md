@@ -2,7 +2,9 @@
 
 Clickable mobile prototype of TruckBondhu, a truck booking marketplace for Bangladesh with Shipper and Driver apps, English and Bengali.
 
-Live demo: https://yasir019.github.io/truck/
+Live app demo: https://yasir019.github.io/truck/
+
+Admin panel demo: https://yasir019.github.io/truck/admin/
 
 Install on a phone: open the link in Chrome (Android) and tap Install app, or in Safari (iPhone) tap Share, then Add to Home Screen.
 
