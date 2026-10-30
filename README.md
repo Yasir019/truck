@@ -1,6 +1,6 @@
-# TruckBondhu
+# Truck Bhai
 
-Clickable mobile prototype of TruckBondhu, a truck booking marketplace for Bangladesh with Shipper and Driver apps, English and Bengali.
+Clickable mobile prototype of Truck Bhai, a truck booking marketplace for Bangladesh with Shipper and Driver apps, English and Bengali.
 
 Live app demo: https://yasir019.github.io/truck/
 
